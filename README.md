@@ -46,8 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/uthejk-2609/uthejk-2609/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
